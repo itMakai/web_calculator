@@ -1,0 +1,112 @@
+body{
+	align-items: center;
+	background-color: black;
+	color: white;
+}
+.introduction{
+	margin-left: 20px;
+}
+#input_btn{
+	border-radius: 20px;
+	height: 30px;
+	align-items: center;
+	margin-left: 30px;
+	width: 270px;
+	margin-top: 10px;
+	padding-left: 30px;
+}
+.TheWholeContent{
+align-items: center;
+margin-inline-start: 30px;
+border-color: blue;
+}
+.results{
+	background-color: black;
+	margin-left: 20px;
+	margin-top: 10px;
+	display:block;
+	padding: 10px;
+	padding-left: 20px;
+	border-radius: 20px;
+	color: white;
+	
+}
+
+.numbers{
+	margin-top: 10px;
+	margin: 10px;
+	background-color: black;
+	border-radius: 20px;
+	display: inline-block;
+	padding: 20px;
+	
+}
+.btn1 {
+	margin-right: 10px;
+}
+.btn2{
+	margin-left: 10px;
+}
+.btn3{
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.btn4{
+	margin-right: 10px;
+	
+}
+.btn5{
+	margin-left: 10px;
+}
+.btn6{
+	margin-left: 10px;
+	margin-right: 5px;
+
+}
+.btn7{
+	margin-right: 10px;
+}
+.btn8{
+	margin-left: 10px;
+	margin-right: 10px;
+} 
+.btn9{
+	margin-right: 5px;
+}
+.btn0{
+	margin-left: 5px;
+}
+.btnX{
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.modulus-btn{
+	margin-right: 10px;
+}
+.calculate-btn{
+	align-items: center;
+	width: 250px;
+	margin: 15px;
+	font-size: 20px;
+	height: 50px;
+	border-radius: 25px;
+	cursor: pointer;
+	background-color: rgb(3, 3, 10);
+	color: white;
+
+	
+}
+.btn1, .btn2, .btn3, .btn4, .btn5, .btn6,.btn7, .btn8, .btn9, .btn0, .btnX, .modulus-btn, .division-btn,
+ .multiplication-btn, .add-btn, .subtract-btn{
+	margin-top: 10px;
+	color: white;
+	border-radius: 20px;
+	background-color:black;
+	padding: 20px;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 30px;
+	
+	
+}
+
